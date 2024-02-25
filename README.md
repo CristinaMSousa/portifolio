@@ -1,8 +1,6 @@
-```
+# Portifólio 
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-
-Criando um meu portifólio em HTML e CSS, conforme aula da Alura projeto da ONE.
+Olá, Bem vindo(a) ao meu projeto de portfólio.
 
 ## Ferramentas utilizadas:
 
@@ -18,5 +16,4 @@ Criando um meu portifólio em HTML e CSS, conforme aula da Alura projeto da ONE.
 
 ### Linkedin: https://www.linkedin.com/in/cristina-sousa-b69b40269/
 
-```
 
